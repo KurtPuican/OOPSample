@@ -2,4 +2,4 @@
 
 ## Sumary 
 
-object oriented sample project, using java
+object oriented sample project, using java.
